@@ -2,11 +2,11 @@ torrent-feed-scraper
 ====================
 
 A simple torrent feed scraper. Pair this with a torrent program that has a watch folder and you have a nifty automated system. 
-I created this to run on my headless server as a cron in conjunction with with transmission daemon.
+I created this to run on my headless media server as a cron in conjunction with with transmission daemon.
 
 Requires: http://code.google.com/p/feedparser/
 
-JSON Structure ass follows ...
+JSON structure as follows ...
 ====================
 {
 "rss": [
