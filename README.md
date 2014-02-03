@@ -10,6 +10,7 @@ Requires the installation of: http://code.google.com/p/feedparser/
 
 JSON (malformed :/) structure should be as follows ...
 ====================
+```json
 {
 "rss": [
             {
@@ -22,3 +23,4 @@ JSON (malformed :/) structure should be as follows ...
             }
         ]
 }
+```
