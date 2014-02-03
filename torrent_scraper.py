@@ -22,9 +22,9 @@ import socket
 socket.setdefaulttimeout(10)
 
 #feed file location.
-json_file = "/home/narkath/.torrent_scraper/feed_list.json"
+json_file = "/Users/admin/Desktop/feed_list.json"
 #Change this to where you have your torrent client watching.
-watch_location = "/home/narkath/Downloads/_watch/"
+watch_location = "/Desktop/admin/Desktop/_watch/"
 
 #json feed getter function
 def getlist(json_file):
